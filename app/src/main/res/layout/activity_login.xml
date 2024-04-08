@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".View.LoginActivity">
+    tools:context=".LoginActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
         android:layout_marginBottom="24dp"
-        android:text="Project04"
+        android:text="FOR MZECO"
         android:textColor="@color/green"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/editTextText"
