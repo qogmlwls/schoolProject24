@@ -67,7 +67,8 @@
             android:layout_height="wrap_content"
             android:background="#00FFFFFF"
             android:text="비밀번호 찾기"
-            android:textColor="@color/green" />
+            android:textColor="@color/green"
+            android:visibility="invisible" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/button3"
@@ -75,7 +76,9 @@
             android:layout_height="wrap_content"
             android:background="#00FFFFFF"
             android:text="아이디 찾기"
-            android:textColor="@color/green" />
+            android:textColor="@color/green"
+            android:visibility="invisible" />
+
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/button"
